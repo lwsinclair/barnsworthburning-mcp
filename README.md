@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aias-barnsworthburning-mcp-badge.png)](https://mseep.ai/app/aias-barnsworthburning-mcp)
+
 # Barnsworthburning MCP
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for searching [barnsworthburning.net](https://barnsworthburning.net).
